@@ -7,3 +7,4 @@ TODO:
 * [ ] Event Storming 
 * [ ] Application structure
 * [ ] Add basic solution and modules
+
