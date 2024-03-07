@@ -5,7 +5,7 @@ Application to help cultivate healthy habits having frontend in angular and back
 TODO:
 
 * [ ] Event Storming 
-  * [/] Big Picture 
+  * [x] Big Picture 
   * [ ] Process Level 
 * [ ] Application structure
 * [ ] Add basic solution and modules
