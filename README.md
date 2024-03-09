@@ -6,6 +6,6 @@ TODO:
 
 * [ ] Event Storming 
   * [x] Big Picture 
-  * [/] Process Level 
+  * [x] Process Level 
 * [ ] Application structure
 * [ ] Add basic solution and modules
